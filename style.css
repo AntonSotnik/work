@@ -1,0 +1,30 @@
+#photo1
+{
+    width: 300px;
+    height: 400px;
+    border: 3px solid green;
+}
+.header
+{
+    display: flex;
+    
+}
+.opis
+{
+    font-size: 20px;
+    padding: 20px;
+    padding-top: 10px;
+    line-height: 1cm;
+}
+h2
+{
+    color:blue;
+}
+body
+{
+    background-color: rgb(243, 243, 103);
+}
+.photos
+{
+ 
+}

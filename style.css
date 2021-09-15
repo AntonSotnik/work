@@ -15,6 +15,7 @@
     padding: 20px;
     padding-top: 10px;
     line-height: 1cm;
+    padding: 15px;
 }
 h2
 {
@@ -24,7 +25,14 @@ body
 {
     background-color: rgb(243, 243, 103);
 }
-.photos
+.main > div > img
 {
- 
+    width: 320px; height: 240px;
+    border: 3px solid orange;
+    margin: 40px;
 }
+ #txt
+ {
+     margin-left: 15px;
+     text-indent: 15px;
+ }
